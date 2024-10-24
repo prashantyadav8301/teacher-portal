@@ -13,8 +13,8 @@ E. After registration user can login and then user will redirect to the dashboar
 About database:
 
 A. DB name is tailwebs. <br>
-B. There are two tables - teacher_login, and students. <be>
-C. I will attach sql file into mail. <be>
-D. There is one credential available into table - <be>
+B. There are two tables - teacher_login, and students. <br>
+C. I will attach sql file into mail. <br>
+D. There is one demo account available of user - <br>
   - username: tailwebs
   - password: tailwebs
